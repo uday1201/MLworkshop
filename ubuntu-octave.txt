@@ -1,0 +1,8 @@
+On Ubuntu, you can use:
+
+sudo apt-get update && sudo apt-get install octave
+
+
+On Fedora, you can use:
+
+sudo yum install octave-forge
